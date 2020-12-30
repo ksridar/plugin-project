@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ksridar.pluginproject.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ksridar.pluginproject.MyBundle
 
 class MyApplicationService {
 
